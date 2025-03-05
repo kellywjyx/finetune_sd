@@ -1,1 +1,1 @@
-# finetune_sd
+# Fine-tuning Stable Diffusion Model using LoRA adapters
