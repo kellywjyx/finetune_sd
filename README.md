@@ -1,6 +1,6 @@
 # Fine-tuning Stable Diffusion Model using LoRA adapters
 
-# Current Evaluation Results
+## Current Evaluation Results
 
 | Metric       | Original Model | LoRA Model |
 |-------------|---------------|------------|
